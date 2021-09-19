@@ -1,5 +1,5 @@
 # Lexica
-Lexica is a text scraper and analyzer made with various NLP and ML algorithms.
+Lexica is a text scraper and analyzer made with various NLP, ML, and DL algorithms.
 
 ## The Scraper
 Lexica uses a pre-made scraper which can only be used to scrape [this](https://sive.rs/book) site. This site was chosen keeping in mind the type of data required by the Analyzer Module for use. All in all, the following fields were scraped and saved in a CSV file
